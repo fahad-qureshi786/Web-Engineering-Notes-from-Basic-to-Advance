@@ -937,6 +937,8 @@ _________________________________________________
 		  listPerPage: 10,
 		};
 		module.exports = config;
+## Follow link to check your skill assessment:
+	[Follow this Link](https://www.javatpoint.com/reactjs-mcq#:~:text=12)%20What%20is%20the%20declarative,on%20values%20in%20an%20array%3F&text=Answer%3A%20C%20is%20the%20correct%20option.,on%20values%20in%20an%20array.)
 _____________________________________________
 🙏🏼🙏🏼🙏🏼🙏🏼 😊😊
 ### THANK YOU FOR VISITING PLEASE FOLLOW us ON GitHub https://github.com/fahad-qureshi786/
